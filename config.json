@@ -58,14 +58,69 @@
           "type": "csv"
         }
       ]
-    }
-    ,
+    },
     {
       "id": "fastapi-rest",
       "title": "Building REST APIs with FastAPI",
       "description": "Create a small RESTful API using FastAPI, Pydantic models, and automatic docs.",
       "path": "assignments/fastapi-rest",
       "dueDate": "2026-07-01",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
+    },
+    {
+      "id": "async-python",
+      "title": "Async Programming with asyncio",
+      "description": "Learn asyncio and write concurrent tasks",
+      "path": "assignments/async-python",
+      "dueDate": "2026-06-25",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
+    },
+    {
+      "id": "web-scraping",
+      "title": "Web Scraping with BeautifulSoup",
+      "description": "Extract and save data from web pages",
+      "path": "assignments/web-scraping",
+      "dueDate": "2026-06-25",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
+    },
+    {
+      "id": "sqlite-databases",
+      "title": "SQLite Databases in Python",
+      "description": "Use sqlite3 to store and query local data",
+      "path": "assignments/sqlite-databases",
+      "dueDate": "2026-06-25",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
+    },
+    {
+      "id": "testing-pytest",
+      "title": "Testing Python with pytest",
+      "description": "Write unit tests using pytest",
+      "path": "assignments/testing-pytest",
+      "dueDate": "2026-06-25",
       "attachments": [
         {
           "name": "Starter Code",
