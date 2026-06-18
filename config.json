@@ -128,6 +128,25 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "api-testing-tdd",
+      "title": "API Testing & TDD with FastAPI",
+      "description": "TDD for REST APIs with pytest and FastAPI",
+      "path": "assignments/api-testing-tdd",
+      "dueDate": "2026-06-25",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        },
+        {
+          "name": "Requirements",
+          "file": "requirements.txt",
+          "type": "txt"
+        }
+      ]
     }
   ]
 }
